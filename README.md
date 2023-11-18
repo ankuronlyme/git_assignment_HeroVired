@@ -1,5 +1,4 @@
 # git_assignment_HeroVired
-
 Ques -1 
 
 Created the Repository ion Github.
@@ -17,13 +16,11 @@ Switch to the dev branch to fix some issue. (While switching to the dev beanch i
 In dev branch fixed the bug in the def divide(self, a, b).
 created a pull request.
 Sent request to the team member to review the code. 
-feature/sqrt branch pushed to the github.
+feature/sqrt branch pushed to the github 
 Merge code of feature/sqrt to dev.
 Complted the testing on dev branch.
 Merged code of dev branch to main.
 Released the new version with name --version -2.
-
-
 
 Ques- 2
 Created a new branch in the same repository.
@@ -36,4 +33,20 @@ and then Git push command.
 *Some how Calculator Plus file also uploaded in that branch.
 
 
-
+Ques- 3
+Creted a brach feature/circle-area.
+Do some piece of code.
+Stash Changes.
+Created a new branch feature/rectangle-area.
+Do some piece of code.
+Return back to brach feature/circle-area.
+Write full code for the circle area.
+Git add, commit
+Git Push
+Return back to brach feature/rectangle-area.
+Write full code for the rectangle area.
+Git add, commit
+Git Push
+Git pull request to dev with both branches "feature/circle-area." & "feature/rectangle-area."
+Merge both branches into dev
+Than merge dev branch into main.
