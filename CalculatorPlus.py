@@ -15,6 +15,9 @@ class Calculator:
         return a * b
 
     def divide(self, a, b):
+        if b == 0:
+
+            raise ValueError("Cannot divide by zero.")
 
         return a / b
 
@@ -40,4 +43,4 @@ print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
 
 print(f"The square root of {num3} = {calculator.square_root(num3)}")
 
-
+print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
