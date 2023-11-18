@@ -1,5 +1,4 @@
 # git_assignment_HeroVired
-
 Ques -1 
 
 Created the Repository ion Github
@@ -20,15 +19,6 @@ Sent request to the team member to review the code.
 feature/sqrt branch pushed to the github 
 
 
-
-
-
-
-
-
-
-
-
 Ques- 2
 Created a new branch in the same repository
 Checkout the lfs branch
@@ -38,6 +28,3 @@ run command git add, git commit
 and then Git push command
 
 *Some how Calculator Plus file also uploaded in that branch.
-
-
-
