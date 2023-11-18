@@ -18,3 +18,26 @@ In dev branch fixed the bug in the def divide(self, a, b)
 created a pull request
 Sent request to the team member to review the code. 
 feature/sqrt branch pushed to the github 
+
+
+
+
+
+
+
+
+
+
+
+Ques- 2
+Created a new branch in the same repository
+Checkout the lfs branch
+Install LFS to upload large file
+run command in terminal to track the .psd file (size of the psd file is 268 mb)
+run command git add, git commit 
+and then Git push command
+
+*Some how Calculator Plus file also uploaded in that branch.
+
+
+
